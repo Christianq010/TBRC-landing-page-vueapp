@@ -1,0 +1,314 @@
+/* Mobile first by default */
+
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+  /* Our  Main Container */
+  .container {
+    height: auto;
+    display: grid;
+  }
+  /* ------------------------------- */
+  /* Number tab */
+  .number-tab {
+    grid-row: 1 / 2;
+    grid-column: 1 / -1;
+    background-color: #f5f8fa;
+  }
+  /* ------------------------------- */
+  /* Navbar */
+  .navbar {
+    grid-row: 2 / 3;
+    grid-column: 1 / -1;
+    height: auto;
+    background-color: black;
+  }
+  .nav-wrapper {
+    display: grid;
+    grid-template-columns: 3fr 8fr 3fr;
+    grid-template-rows: 50px;
+    grid-gap: 3px;
+  }
+  .menu-icn-wrapper {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  .menu-icn {
+    color: #666666;
+    width: 25px;
+    font-size: 1em;
+    padding-left: 1em;
+  }
+  .menu-icn:hover {
+    color: #0dbe98;
+    cursor: pointer;
+  }
+  .logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  /* Main Logo */
+  .logo img {
+    height: 2em;
+    width: 10em;
+    display: block;
+    margin: 1.5rem auto;
+  }
+  .main-icn {
+    display: none;
+  }
+  .language-selection {
+    display: none;
+  }
+  /* ------------------------------ */
+  /* Main Content Section */
+  .main-content-wrapper {
+    grid-row: 3 / 4;
+    grid-column: 1 / -1;
+    /* Styling */
+    background-size: cover;
+    background-position: 50% 50%;
+    width: 100%;
+    background-color: #666666;
+  }
+
+  /* ------------------------------ */
+  /* Content Section One - Left */
+  .sec-1 {
+    grid-row: 4 / 5;
+    grid-column: 1 / -1;
+    background-color: #575656;
+  }
+  /* ------------------------------ */
+
+  /* Content Section Two - Center */
+  .sec-2 {
+    grid-row: 5 / 6;
+    grid-column: 1 / -1;
+    background-color: #696868;
+  }
+  /* ------------------------------ */
+
+  /* Content Section Three - Right */
+  .sec-3 {
+    grid-row: 6 / 7;
+    grid-column: 1 / -1;
+    background-color: #363636;
+  }
+  /* ------------------------------ */
+
+  /* Stats Content Section */
+  /* Table Stats */
+  .stats-1 {
+    grid-row: 7 / 8;
+    grid-column: 1 / -1;
+    background-color: #575656;
+  }
+  /* ------------------------------ */
+  /* Stats story left */
+  .stats-2 {
+    grid-row: 8 / 9;
+    grid-column: 1 / -1;
+    background-color: #6d6d6d;
+  }
+  /* ------------------------------ */
+  /* Stats story right */
+  .stats-3 {
+    grid-row: 9 / 10;
+    grid-column: 1 / -1;
+    background-color: #757575;
+  }
+
+  /* ------------------------------ */
+  /* Footer */
+  .footer {
+    grid-row: 10 / 1;
+    grid-column: 1 / -1;
+    background-color: #494949;
+  }
+  /* ------------------------------ */
+}
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: 550px) {
+}
+
+/* Desktops and laptops ----------- */
+@media only screen and (min-width: 1224px) {
+  /* Our  Main Container */
+  .container {
+    height: auto;
+    display: grid;
+    grid-gap: 0;
+    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+    grid-auto-rows: 25%;
+    grid-auto-flow: dense;
+  }
+  /* ------------------------------- */
+  /* Number tab */
+  .number-tab {
+    grid-row: 1 / 2;
+    grid-column: 1 / -1;
+    background-color: #f5f8fa;
+    /* border-bottom: 1px solid #cbd6e2; */
+  }
+  .number-tab-wrapper {
+  }
+  .number-tab-inner {
+    display: grid;
+    grid-template-columns: repeat(14, 1fr);
+    grid-template-rows: 74.3281px;
+    grid-gap: 3px;
+  }
+  .number-tab-icn-box {
+    grid-row: 1 / 2;
+    grid-column: 3 / 7;
+    display: flex;
+    align-items: center;
+  }
+  .number-tab-icn {
+  }
+  .number-tab-lang-box {
+    padding: 0 0 0 1em;
+  }
+  .number-tab-lang {
+    font-size: 1.325rem;
+    font-family: $font-regular;
+  }
+  .number-tab-dropdown {
+    padding: 0 0 0 1em;
+  }
+  .number-tab-link {
+    padding: 0em 1em;
+  }
+  .number-tab-num-box {
+    font-size: 1.325rem;
+  }
+  /* ------------------------------- */
+  /* Navbar */
+  .navbar {
+    grid-row: 2 / 3;
+    grid-column: 1 / -1;
+    /* height: 78px; */
+    /* Navbar styling */
+    height: auto;
+    background-color: black;
+    width: 100%;
+    /* position: fixed; */
+    top: 0;
+    margin-bottom: 0;
+  }
+  .nav-wrapper {
+    display: grid;
+    grid-template-columns: 3fr 8fr 2fr 1fr;
+    grid-template-rows: 78px;
+    grid-gap: 3px;
+  }
+  .menu-icn-wrapper {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  .menu-icn {
+    color: #666666;
+    width: 25px;
+    font-size: 1.75em;
+    padding-left: 1em;
+  }
+  .menu-icn:hover {
+    color: #0dbe98;
+    cursor: pointer;
+  }
+  .logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .logo img {
+    height: auto;
+    width: 225px;
+  }
+  .language-selection {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  .language-editions-text {
+    color: white;
+    font-size: 0.625rem;
+    letter-spacing: 1.3px;
+  }
+  .language-editions-text:hover {
+    color: #0dbe98;
+    cursor: pointer;
+  }
+  /* ------------------------------- */
+  /* Main Section */
+  /* ------------------------------- */
+  /* Main Section background Image*/
+  .main-content-wrapper {
+    grid-row: 3 / 4;
+    grid-column: 1 / -1;
+    /* height: 480px; */
+    /* Styling */
+    background-size: cover;
+    background-position: 50% 50%;
+    height: 480px;
+    background-color: #666666;
+  }
+
+  /* ------------------------------- */
+  /* Content Section One */
+  /* ------------------------------- */
+  .sec-1 {
+    grid-row: 4 / 5;
+    grid-column: 4 / 12;
+    background-color: #575656;
+  }
+  /* ------------------------------- */
+  /* Content Section Two - Center */
+  .sec-2 {
+    grid-row: 5 / 6;
+    grid-column: 3 / 13;
+    background-color: #696868;
+  }
+  /* ------------------------------- */
+  /* Content Section Three */
+  .sec-3 {
+    grid-row: 6 / 7;
+    grid-column: 3 / 13;
+    background-color: #363636;
+  }
+  /* ------------------------------- */
+  /* Stats Content Section */
+  /* ------------------------------- */
+  .stats-1 {
+    grid-row: 7 / 8;
+    grid-column: 1 / -1;
+    background-color: #575656;
+  }
+  /* ------------------------------- */
+  /* Stats story left */
+  .stats-2 {
+    grid-row: 8 / 9;
+    grid-column: 3 / 13;
+    background-color: #6d6d6d;
+  }
+  /* ------------------------------- */
+  /* Stats story right */
+  .stats-3 {
+    grid-row: 10 / 11;
+    grid-column: 3 / 13;
+    background-color: #757575;
+  }
+  /* ------------------------------- */
+  /* Footer */
+  /* ------------------------------- */
+  .footer {
+    grid-row: 11 / 12;
+    grid-column: 1 / -1;
+    background-color: #353535;
+  }
+}
