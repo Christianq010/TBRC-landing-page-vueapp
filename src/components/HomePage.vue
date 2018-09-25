@@ -65,24 +65,84 @@
             <!-- Wrapper for all nav content -->
             <div class="nav-wrapper">
 
-                <!-- Hamburger menu -->
-                <div class="menu-icn-wrapper">
-                    <i class="fas fa-align-justify menu-icn"></i>
+                <!-- Nav Content Inner -->
+                <div class="nav-content-inner">
+                    <!-- Main Logo -->
+                    <div class="menu-logo-box">
+                        <div class="main-logo">
+                            <img src="https://www.hubspot.com/hubfs/HubSpot_Logos/HSLogo_color.svg?t=1537361349962" alt="Our main logo" />
+                        </div>
+                    </div>
+                    <!-- /end of Main Logo -->
                 </div>
-                <!-- /end of Hamburger menu -->
+                <!-- /end of Nav Content Inner -->
 
-                <!-- Our main Huff Post logo -->
-                <div class="logo">
-                    <!-- <img src="img/HuffPostHero.svg"> -->
-                    <h1>Logo</h1>
+                <!-- Nav Content Menu Items -->
+                <div class="nav-content-menu-box">
+                    <!-- Nav Content Menu Items -->
+                    <div class="nav-content-menu">
+                        <!-- Nav Content Ul -->
+                        <ul class="nav-content-menu-ul">
+                            <li class="nav-content-menu-li">
+                                <a>
+                                    <div class="nav-content-menu-wrapper">
+                                        <span class="nav-content-menu-text">Software</span>
+                                        <div class="nav-content-menu-dropdown">
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 24 24">
+                                                <path d="M12 21l-12-18h24z"/>
+                                            </svg>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+                            <li class="nav-content-menu-li">
+                                <a>
+                                    <div class="nav-content-menu-wrapper">
+                                        <span class="nav-content-menu-text">Pricing</span>
+                                    </div>
+                                </a>
+                            </li>
+                            <li class="nav-content-menu-li">
+                                <a>
+                                    <div class="nav-content-menu-wrapper">
+                                        <span class="nav-content-menu-text">Resources</span>
+                                        <div class="nav-content-menu-dropdown">
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 24 24">
+                                                <path d="M12 21l-12-18h24z"/>
+                                            </svg>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+                            <li class="nav-content-menu-li">
+                                <a>
+                                    <div class="nav-content-menu-wrapper">
+                                        <span class="nav-content-menu-text">Partners</span>
+                                        <div class="nav-content-menu-dropdown">
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 24 24">
+                                                <path d="M12 21l-12-18h24z"/>
+                                            </svg>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+                            <li class="nav-content-menu-li">
+                                <a>
+                                    <div class="nav-content-menu-wrapper">
+                                        <span class="nav-content-menu-text">About</span>
+                                        <div class="nav-content-menu-dropdown">
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 24 24">
+                                                <path d="M12 21l-12-18h24z"/>
+                                            </svg>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                    <!-- /end of Nav Content Menu Items -->
                 </div>
-                <!-- /end of main logo -->
-
-                <!-- Language Selection -->
-                <div class="language-selection">
-                    <span class="language-editions-text">Right Side</span>
-                </div>
-                <!-- /end of Language Selection -->
+                <!-- /end of Nav Content Menu Items -->
 
             </div>
             <!-- /end of Wrapper for all nav content -->
@@ -138,5 +198,4 @@ export default {};
 </script>
 
 <style lang="scss" scoped>
-
 </style>

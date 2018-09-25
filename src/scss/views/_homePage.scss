@@ -198,7 +198,8 @@
   .number-tab-btn-list {
     list-style: none;
   }
-  .number-tab-btn-li {}
+  .number-tab-btn-li {
+  }
   .number-tab-btn {
     font-size: 0.75em;
     font-weight: 500;
@@ -207,8 +208,9 @@
     background-color: $btn-orange;
     line-height: 1.25;
     border: 0;
-    border-radius: .1875em;
-    transition: 0.15s color ease-out, 0.15s background-color ease-out, 0.15s border-color ease-out;
+    border-radius: 0.1875em;
+    transition: 0.15s color ease-out, 0.15s background-color ease-out,
+      0.15s border-color ease-out;
   }
   .number-tab-btn:hover {
     background-color: $btn-orange-hover;
@@ -231,47 +233,48 @@
   }
   .nav-wrapper {
     display: grid;
-    grid-template-columns: 3fr 8fr 2fr 1fr;
-    grid-template-rows: 78px;
+    grid-template-columns: repeat(14, 1fr);
+    grid-template-rows: 76px;
     grid-gap: 3px;
   }
-  .menu-icn-wrapper {
+  .nav-content-inner {
+    grid-row: 1 / 2;
+    grid-column: 3 / 7;
     display: flex;
-    justify-content: flex-start;
     align-items: center;
   }
-  .menu-icn {
-    color: #666666;
-    width: 25px;
-    font-size: 1.75em;
-    padding-left: 1em;
+  .menu-logo-box {
   }
-  .menu-icn:hover {
-    color: #0dbe98;
-    cursor: pointer;
+  .main-logo {
   }
-  .logo {
+  .nav-content-menu-box {
+    grid-row: 1 / 2;
+    grid-column: 7 / 13;
     display: flex;
-    justify-content: center;
     align-items: center;
   }
-  .logo img {
-    height: auto;
-    width: 225px;
+  .nav-content-menu {
+    
   }
-  .language-selection {
+  .nav-content-menu-ul {
+      display: flex;
+  }
+  .nav-content-menu-li {
+    padding: 1em 1em;
+  }
+  .nav-content-menu-wrapper {
     display: flex;
-    justify-content: flex-start;
-    align-items: center;
   }
-  .language-editions-text {
-    color: white;
-    font-size: 0.625rem;
-    letter-spacing: 1.3px;
+  .nav-content-menu-text {
+    color: #33475b;
+    font-family: $font-bold;
+    font-size: 1.05em;
   }
-  .language-editions-text:hover {
-    color: #0dbe98;
-    cursor: pointer;
+  .nav-content-menu-dropdown {
+    padding: 0 0 0 1em;
+  }
+  .nav-content-menu-dropdown svg {
+    fill: $icn-grey;
   }
   /* ------------------------------- */
   /* Main Section */
