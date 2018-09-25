@@ -51,4 +51,7 @@ body {
   margin: 0px;
   padding: 0px;
 }
+a:hover {
+  cursor: pointer;
+}
 </style>

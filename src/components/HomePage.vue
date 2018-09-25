@@ -45,7 +45,11 @@
                     <!-- Number tab number box -->
                     <!-- Number tab Button -->
                     <div class="number-tab-btn-box">
-
+                        <ul class="number-tab-btn-list">
+                            <li class="number-tab-btn-li">
+                                <a class="number-tab-btn">Get HubSpot free</a>
+                            </li>
+                        </ul>
                     </div>
                     <!-- /end of Number tab Button -->
                 </div>

@@ -152,7 +152,7 @@
     grid-row: 1 / 2;
     grid-column: 1 / -1;
     background-color: #f5f8fa;
-    /* border-bottom: 1px solid #cbd6e2; */
+    border-bottom: 1px solid #cbd6e2;
   }
   .number-tab-wrapper {
   }
@@ -180,11 +180,40 @@
   .number-tab-dropdown {
     padding: 0 0 0 1em;
   }
+  .number-tab-dropdown {
+    fill: $icn-grey;
+  }
   .number-tab-link {
     padding: 0em 1em;
   }
   .number-tab-num-box {
     font-size: 1.325rem;
+  }
+  // Button Box
+  .number-tab-btn-box {
+    grid-row: 1 / 2;
+    grid-column: 10 / 13;
+    // background-color: #353535;
+    display: flex;
+    align-items: center;
+  }
+  .number-tab-btn-list {
+    list-style: none;
+  }
+  .number-tab-btn-li {}
+  .number-tab-btn {
+    font-size: 0.75em;
+    font-weight: 500;
+    padding: 0.563em 1em;
+    color: white;
+    background-color: #ff7a59;
+    line-height: 1.25;
+    border: 0;
+    border-radius: .1875em;
+    transition: 0.15s color ease-out, 0.15s background-color ease-out, 0.15s border-color ease-out;
+  }
+  .number-tab-btn:hover {
+    background-color: #FF8F73;
   }
   /* ------------------------------- */
   /* Navbar */
