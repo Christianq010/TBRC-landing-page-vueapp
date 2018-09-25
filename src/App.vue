@@ -50,6 +50,7 @@ body {
   font-family: "AvenirNextReg", "HelveticaNeue", Arial, sans-serif;
   margin: 0px;
   padding: 0px;
+  background-color: $bg-color;
 }
 a:hover {
   cursor: pointer;

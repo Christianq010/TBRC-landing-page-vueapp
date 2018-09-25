@@ -207,8 +207,6 @@
                     </div>
                     <!-- /end of Hero Tip text -->
 
-                    
-
                 </div>
                 <!-- /end of Main Hero Description -->
 
@@ -221,9 +219,45 @@
         <!-- /end of Main Content Section -->
 
 
-        <!-- Content Section 1 -->
-        <div class="sec-1">Content Section 1</div>
-        <!-- /end of Content Section 1 -->
+        <!-- Home Growth Stack -->
+        <section class="home-growth-stack">
+            <!-- Home growth Wrapper -->
+            <div class="hgs-wrapper">
+
+                <!-- hgs border-box -->
+                <div class="hgs-border-box">
+
+                    <!-- HGS image wrapper -->
+                    <div class="hgs-img-wrapper">
+                        <div class="hgs-img">
+                            <img src="https://www.hubspot.com/hubfs/assets/hubspot.com/home/2018/Integrations_Illustration@2x.png?t=1537361349962" />
+                        </div>
+                    </div>
+                    <!-- /end of HGS image wrapper -->
+
+                    <!-- HGS Headline text wrapper-->
+                    <div class="hgs-headline-wrapper">
+                        <div class="hgs-headline-text">
+                            Powerful alone. Better together.
+                        </div>
+                    </div>
+                    <!-- /end of HGS Headline text wrapper-->
+
+                    <!-- HGS Des text wrapper -->
+                    <div class="hgs-des-wrapper">
+                        <div class="hgs-des-text">
+                            HubSpot offers a full stack of software for marketing, sales, and customer service, with a completely free CRM at its core. They’re powerful alone — but even better when used together.
+                        </div>
+                    </div>
+                    <!-- /end of HGS Des text wrapper -->
+
+                </div>
+                <!-- /end of hgs border-box -->
+
+            </div>
+            <!-- /end of Home growth Wrapper -->
+        </section>
+        <!-- /end of Home Growth Stack -->
 
         <!-- Content Section 2 (center) -->
         <div class="sec-2">Content Section 2</div>
