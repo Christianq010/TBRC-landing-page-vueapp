@@ -10,14 +10,12 @@
   /* ------------------------------- */
   /* Number tab */
   .number-tab {
-    grid-row: 1 / 2;
-    grid-column: 1 / -1;
-    background-color: #f5f8fa;
+    display: none;
   }
   /* ------------------------------- */
   /* Navbar */
   .navbar {
-    grid-row: 2 / 3;
+    grid-row: 1 / 2;
     grid-column: 1 / -1;
     height: auto;
     background-color: black;
@@ -124,7 +122,7 @@
   /* ------------------------------ */
   /* Footer */
   .footer {
-    grid-row: 10 / 1;
+    grid-row: 10 / 11;
     grid-column: 1 / -1;
     background-color: #494949;
   }
@@ -217,13 +215,15 @@
   }
   /* ------------------------------- */
   /* Navbar */
+  /* ------------------------------- */
   .navbar {
     grid-row: 2 / 3;
     grid-column: 1 / -1;
     /* height: 78px; */
     /* Navbar styling */
     height: auto;
-    background-color: black;
+    background-color: #fff;
+    color: $menu-grey;
     width: 100%;
     /* position: fixed; */
     top: 0;
