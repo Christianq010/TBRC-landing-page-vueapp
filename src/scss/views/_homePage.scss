@@ -206,14 +206,14 @@
     font-weight: 500;
     padding: 0.563em 1em;
     color: white;
-    background-color: #ff7a59;
+    background-color: $btn-orange;
     line-height: 1.25;
     border: 0;
     border-radius: .1875em;
     transition: 0.15s color ease-out, 0.15s background-color ease-out, 0.15s border-color ease-out;
   }
   .number-tab-btn:hover {
-    background-color: #FF8F73;
+    background-color: $btn-orange-hover;
   }
   /* ------------------------------- */
   /* Navbar */
