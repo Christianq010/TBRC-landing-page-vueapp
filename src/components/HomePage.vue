@@ -152,9 +152,70 @@
 
         <!-- Main Content Section -->
 
-        <!-- Main Content Wrapper with image-->
-        <div class="main-content-wrapper" style="background-image: url('img/main-bg.jpeg');">
-        </div>
+        <!-- Main Hero Content Wrapper -->
+        <section class="main-content-wrapper">
+
+            <!-- Main hero content  -->
+            <div class="main-hero-content">
+
+                <!-- Main Hero Image Box -->
+                <div class="hero-image-box">
+                    <div class="hero-image">
+                        <!-- Image wrapper -->
+                        <div class="hero-image-wrapper">
+                            <img />
+                        </div>
+                        <!-- /end of Image wrapper -->
+                    </div>
+                </div>
+                <!-- /end of Main Hero Image Box -->
+
+                <!-- Main Hero Description -->
+                <div class="hero-des-box">
+
+                    <!-- Hero Headline -->
+                    <div class="hero-des-headline-box">
+                        <div class="hero-des-headline">
+                            There’s a better way to grow.
+                        </div>
+                    </div>
+                    <!-- /end of Hero Headline -->
+
+                    <!-- Hero Des -->
+                    <div class="hero-des-text-box">
+                        <div class="hero-des-text">
+                            Marketing, sales, and service software that helps your business grow without compromise. Because “good for the business” should also mean “good for the customer.”
+                        </div>
+                    </div>
+                    <!-- /end of Hero Des -->
+
+                    <!-- Hero CTA Button -->
+                    <div class="hero-des-cta-btn-box">
+                        <a class="hero-des-cta-link">
+                            <div class="hero-des-cta-btn">
+                                Get HubSpot free
+                            </div>
+                        </a>
+                    </div>
+                    <!-- /end of Hero CTA Button -->
+
+                    <!-- Hero tip text -->
+                    <div class="hero-tip-text-box">
+                        <div class="hero-tip-text">
+                            Get started with FREE tools, and upgrade as you grow.
+                        </div>
+                    </div>
+                    <!-- /end of Hero Tip text -->
+
+                    
+
+                </div>
+                <!-- /end of Main Hero Description -->
+
+            </div>
+            <!-- /end of Main hero content  -->
+
+        </section>
         <!-- Main Content Wrapper -->
 
         <!-- /end of Main Content Section -->
