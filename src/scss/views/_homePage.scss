@@ -295,13 +295,14 @@
     font-size: 13px;
   }
   /* ------------------------------ */
-
-  /* Content Section Three - Right */
-  .sec-3 {
+  /* Home Feature Container */
+  /* ------------------------------ */
+  .home-feature-container {
     grid-row: 6 / 7;
     grid-column: 1 / -1;
     background-color: #363636;
   }
+
   /* ------------------------------ */
 
   /* Stats Content Section */
@@ -704,11 +705,109 @@
   }
 
   /* ------------------------------- */
-  /* Content Section Three */
-  .sec-3 {
+  /* Home Feature Container */
+  /* ------------------------------- */
+  .home-feature-container {
     grid-row: 6 / 7;
     grid-column: 3 / 13;
-    background-color: #363636;
+  }
+  .hfc-wrapper {
+    display: grid;
+    grid-template-columns: repeat(16, 1fr);
+    grid-template-rows: auto;
+    grid-gap: 3px;
+  }
+  .hfc-card {
+    grid-column: 1 / 6;
+    background-color: #fff;
+    padding: 2em;
+  }
+  .hfc-icn-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .hfc-icn-wrapper {
+    margin: 1.5em 0;
+  }
+  .hfc-icn-img {
+    max-width: 100%;
+  }
+  .hfc-img {
+    height: 150px;
+  }
+  .hfc-btn-wrapper {
+    color: white;
+    font-family: $font-bold;
+    background-color: $btn-orange;
+    line-height: 1.25;
+    border: 0;
+    border-radius: 0.1875em;
+    transition: 0.15s color ease-out, 0.15s background-color ease-out,
+      0.15s border-color ease-out;
+  }
+  .hfc-btn-link {
+    font-size: 0.875em;
+  }
+  .hfc-btn {
+    padding: 0.8em;
+  }
+  // HPF Des
+  .hfc-des-box {
+    color: $menu-grey;
+    text-align: center;
+  }
+  .hfc-headline-wrapper {
+    margin: 2em 0;
+  }
+  .hfc-headline-text {
+    font-size: 1.375em;
+    font-weight: 600;
+    line-height: 1.3636;
+  }
+  .hfc-des-wrapper {
+    margin: 1em 0;
+  }
+  .hfc-des-text {
+    font-size: 14px;
+  }
+  .hfc-sub-wrapper {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+  .hfc-sub-box {
+    margin: 0 0 1em 0;
+  }
+  .hfc-sub-text {
+    font-size: 13px;
+    text-transform: uppercase;
+    font-weight: 600;
+  }
+  .hfc-sub-line-box {
+    margin: 1em 2em;
+  }
+  .hfc-sub-line {
+    height: 1px;
+    background: $border-btm;
+  }
+  .hfc-icn-list-box {}
+  .hfc-icn-list-ul {
+    display: flex;
+    flex-direction: column;
+  }
+  .hfc-icn-list-li {}
+  .hfc-icn-li-wrapper {
+    display: flex;
+  }
+  .hfc-icn-src {}
+  .hfc-icn-src svg {
+    fill: $btn-orange;
+    width: 18px;
+    height: 18px;
+  }
+  .hfc-icn-text {
+    padding: 0 1em 0 0.5em;
+    font-size: 13px;
   }
   /* ------------------------------- */
   /* Stats Content Section */

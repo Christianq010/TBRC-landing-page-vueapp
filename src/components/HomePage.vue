@@ -375,9 +375,113 @@
         </section>
         <!-- /end of Home Products Feature -->
 
-        <!-- Content Section 3 (right) -->
-        <div class="sec-3">Content Section 3</div>
-        <!-- /end of Content Section 3 (right) -->
+        <!-- Home Feature Container  -->
+        <section class="home-feature-container">
+
+            <!-- HFC wrapper-->
+            <div class="hfc-wrapper">
+
+                <!-- HFC Card -->
+                <div class="hfc-card">
+                    <!-- HPF Icon Box -->
+                    <div class="hfc-icn-box">
+                        <!-- HPF Icn -->
+                        <div class="hfc-icn-wrapper">
+                            <div class="hfc-icn-img">
+                                <img class="hfc-img" src="https://www.hubspot.com/hubfs/Marketing-Hub-Free.svg?t=1537907763979" />
+                            </div>
+                        </div>
+                        <!-- /end of HPF Icn -->
+                        <!-- HPF CTA btn -->
+                        <div class="hfc-btn-wrapper">
+                            <a class="hfc-btn-link">
+                                <div class="hfc-btn">
+                                    Learn More
+                                </div>
+                            </a>
+                        </div>
+                        <!-- /end of HPF CTA btn -->
+                    </div>
+                    <!-- /end of HPF Icon Box -->
+
+                    <!-- HPF Des Box -->
+                    <div class="hfc-des-box">
+                        <!-- HPF Headline -->
+                        <div class="hfc-headline-wrapper">
+                            <div class="hfc-headline-text">
+                                Marketing Hub
+                            </div>
+                        </div>
+                        <!-- /end of HPF Headline -->
+                        <!-- HPF des -->
+                        <div class="hfc-des-wrapper">
+                            <div class="hfc-des-text">
+                                Marketing software to help you grow traffic, convert more visitors, and run complete inbound marketing campaigns at scale.
+                            </div>
+                        </div>
+                        <!-- /end of HPF des -->
+                        <!-- HPF Sub Headline -->
+                        <div class="hfc-sub-wrapper">
+                            <div class="hfc-sub-box">
+                                <div class="hfc-sub-text">
+                                    POPULAR FEATURES
+                                </div>
+                            </div>
+                            <!-- Sub Line -->
+                            <div class="hfc-sub-line-box">
+                                <div class="hfc-sub-line"></div>
+                            </div>
+                            <!-- /end of Sub Line -->
+                        </div>
+                        <!-- /end of Hsub PF Headline -->
+                        <!-- HPF Icon List-->
+                        <div class="hfc-icn-list-box">
+                            <!-- HPF Ul wrapper -->
+                            <ul class="hfc-icn-list-ul">
+                                <li class="hfc-icn-list-li">
+                                    <div class="hfc-icn-li-wrapper">
+                                        <span class="hfc-icn-src">
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                                <path d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm-1.959 17l-4.5-4.319 1.395-1.435 3.08 2.937 7.021-7.183 1.422 1.409-8.418 8.591z"/>
+                                            </svg>
+                                        </span>
+                                        <span class="hfc-icn-text">Contact Insights</span>
+                                    </div>
+                                </li>
+                                <li class="hfc-icn-list-li">
+                                    <div class="hfc-icn-li-wrapper">
+                                        <span class="hfc-icn-src">
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                                <path d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm-1.959 17l-4.5-4.319 1.395-1.435 3.08 2.937 7.021-7.183 1.422 1.409-8.418 8.591z"/>
+                                            </svg>
+                                        </span>
+                                        <span class="hfc-icn-text">Lead Generation</span>
+                                    </div>
+                                </li>
+                                <li class="hfc-icn-list-li">
+                                    <div class="hfc-icn-li-wrapper">
+                                        <span class="hfc-icn-src">
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                                <path d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm-1.959 17l-4.5-4.319 1.395-1.435 3.08 2.937 7.021-7.183 1.422 1.409-8.418 8.591z"/>
+                                            </svg>
+                                        </span>
+                                        <span class="hfc-icn-text">Marketing Automation</span>
+                                    </div>
+                                </li>
+                            </ul>
+                            <!-- /end of HPF Ul wrapper -->
+                        </div>
+                        <!-- /end of HPF Icon List-->
+                    </div>
+                    <!-- /end of HPF Des Box -->
+                </div>
+                <!-- /end of HFC Card -->
+
+            </div>
+            <!-- /end of HFC wrapper-->
+
+        </section>
+        <!-- /end of Home Feature Container -->
 
 
         <!-- Stats Content Section -->
