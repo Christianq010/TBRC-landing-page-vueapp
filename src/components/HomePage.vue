@@ -477,6 +477,199 @@
                 </div>
                 <!-- /end of HFC Card -->
 
+                <!-- HFC Card -->
+                <div class="hfc-card">
+                    <!-- HPF Icon Box -->
+                    <div class="hfc-icn-box">
+                        <!-- HPF Icn -->
+                        <div class="hfc-icn-wrapper">
+                            <div class="hfc-icn-img">
+                                <img class="hfc-img" src="https://www.hubspot.com/hubfs/assets/hubspot.com/_style-guide/sword-sprocket/Sales-Professional-Illustration.svg?t=1537907763979" />
+                            </div>
+                        </div>
+                        <!-- /end of HPF Icn -->
+                        <!-- HPF CTA btn -->
+                        <div class="hfc-btn-wrapper">
+                            <a class="hfc-btn-link">
+                                <div class="hfc-btn">
+                                    Learn More
+                                </div>
+                            </a>
+                        </div>
+                        <!-- /end of HPF CTA btn -->
+                    </div>
+                    <!-- /end of HPF Icon Box -->
+
+                    <!-- HPF Des Box -->
+                    <div class="hfc-des-box">
+                        <!-- HPF Headline -->
+                        <div class="hfc-headline-wrapper">
+                            <div class="hfc-headline-text">
+                                Sales Hub
+                            </div>
+                        </div>
+                        <!-- /end of HPF Headline -->
+                        <!-- HPF des -->
+                        <div class="hfc-des-wrapper">
+                            <div class="hfc-des-text">
+                                Time-saving sales software that helps you get deeper insights into prospects, automate the tasks you hate, and close more deals faster.
+                            </div>
+                        </div>
+                        <!-- /end of HPF des -->
+                        <!-- HPF Sub Headline -->
+                        <div class="hfc-sub-wrapper">
+                            <div class="hfc-sub-box">
+                                <div class="hfc-sub-text">
+                                    POPULAR FEATURES
+                                </div>
+                            </div>
+                            <!-- Sub Line -->
+                            <div class="hfc-sub-line-box">
+                                <div class="hfc-sub-line"></div>
+                            </div>
+                            <!-- /end of Sub Line -->
+                        </div>
+                        <!-- /end of Hsub PF Headline -->
+                        <!-- HPF Icon List-->
+                        <div class="hfc-icn-list-box">
+                            <!-- HPF Ul wrapper -->
+                            <ul class="hfc-icn-list-ul">
+                                <li class="hfc-icn-list-li">
+                                    <div class="hfc-icn-li-wrapper">
+                                        <span class="hfc-icn-src">
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                                <path d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm-1.959 17l-4.5-4.319 1.395-1.435 3.08 2.937 7.021-7.183 1.422 1.409-8.418 8.591z"/>
+                                            </svg>
+                                        </span>
+                                        <span class="hfc-icn-text">Email Tracking</span>
+                                    </div>
+                                </li>
+                                <li class="hfc-icn-list-li">
+                                    <div class="hfc-icn-li-wrapper">
+                                        <span class="hfc-icn-src">
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                                <path d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm-1.959 17l-4.5-4.319 1.395-1.435 3.08 2.937 7.021-7.183 1.422 1.409-8.418 8.591z"/>
+                                            </svg>
+                                        </span>
+                                        <span class="hfc-icn-text">Meeting Scheduling</span>
+                                    </div>
+                                </li>
+                                <li class="hfc-icn-list-li">
+                                    <div class="hfc-icn-li-wrapper">
+                                        <span class="hfc-icn-src">
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                                <path d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm-1.959 17l-4.5-4.319 1.395-1.435 3.08 2.937 7.021-7.183 1.422 1.409-8.418 8.591z"/>
+                                            </svg>
+                                        </span>
+                                        <span class="hfc-icn-text">Email Automation</span>
+                                    </div>
+                                </li>
+                            </ul>
+                            <!-- /end of HPF Ul wrapper -->
+                        </div>
+                        <!-- /end of HPF Icon List-->
+                    </div>
+                    <!-- /end of HPF Des Box -->
+                </div>
+                <!-- /end of HFC Card -->
+
+
+                <!-- HFC Card -->
+                <div class="hfc-card">
+                    <!-- HPF Icon Box -->
+                    <div class="hfc-icn-box">
+                        <!-- HPF Icn -->
+                        <div class="hfc-icn-wrapper">
+                            <div class="hfc-icn-img">
+                                <img class="hfc-img" src="https://www.hubspot.com/hubfs/assets/hubspot.com/_style-guide/sword-sprocket/Service-Hub-Illustration.svg?t=1537907763979" />
+                            </div>
+                        </div>
+                        <!-- /end of HPF Icn -->
+                        <!-- HPF CTA btn -->
+                        <div class="hfc-btn-wrapper">
+                            <a class="hfc-btn-link">
+                                <div class="hfc-btn">
+                                    Learn More
+                                </div>
+                            </a>
+                        </div>
+                        <!-- /end of HPF CTA btn -->
+                    </div>
+                    <!-- /end of HPF Icon Box -->
+
+                    <!-- HPF Des Box -->
+                    <div class="hfc-des-box">
+                        <!-- HPF Headline -->
+                        <div class="hfc-headline-wrapper">
+                            <div class="hfc-headline-text">
+                                Service Hub
+                            </div>
+                        </div>
+                        <!-- /end of HPF Headline -->
+                        <!-- HPF des -->
+                        <div class="hfc-des-wrapper">
+                            <div class="hfc-des-text">
+                                Customer service software to help you connect with customers, exceed expectations, and turn them into promoters that grow your business.
+                            </div>
+                        </div>
+                        <!-- /end of HPF des -->
+                        <!-- HPF Sub Headline -->
+                        <div class="hfc-sub-wrapper">
+                            <div class="hfc-sub-box">
+                                <div class="hfc-sub-text">
+                                    POPULAR FEATURES
+                                </div>
+                            </div>
+                            <!-- Sub Line -->
+                            <div class="hfc-sub-line-box">
+                                <div class="hfc-sub-line"></div>
+                            </div>
+                            <!-- /end of Sub Line -->
+                        </div>
+                        <!-- /end of Hsub PF Headline -->
+                        <!-- HPF Icon List-->
+                        <div class="hfc-icn-list-box">
+                            <!-- HPF Ul wrapper -->
+                            <ul class="hfc-icn-list-ul">
+                                <li class="hfc-icn-list-li">
+                                    <div class="hfc-icn-li-wrapper">
+                                        <span class="hfc-icn-src">
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                                <path d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm-1.959 17l-4.5-4.319 1.395-1.435 3.08 2.937 7.021-7.183 1.422 1.409-8.418 8.591z"/>
+                                            </svg>
+                                        </span>
+                                        <span class="hfc-icn-text">Tickets</span>
+                                    </div>
+                                </li>
+                                <li class="hfc-icn-list-li">
+                                    <div class="hfc-icn-li-wrapper">
+                                        <span class="hfc-icn-src">
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                                <path d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm-1.959 17l-4.5-4.319 1.395-1.435 3.08 2.937 7.021-7.183 1.422 1.409-8.418 8.591z"/>
+                                            </svg>
+                                        </span>
+                                        <span class="hfc-icn-text">Customer Feedback</span>
+                                    </div>
+                                </li>
+                                <li class="hfc-icn-list-li">
+                                    <div class="hfc-icn-li-wrapper">
+                                        <span class="hfc-icn-src">
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                                <path d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm-1.959 17l-4.5-4.319 1.395-1.435 3.08 2.937 7.021-7.183 1.422 1.409-8.418 8.591z"/>
+                                            </svg>
+                                        </span>
+                                        <span class="hfc-icn-text">Knowledge Base</span>
+                                    </div>
+                                </li>
+                            </ul>
+                            <!-- /end of HPF Ul wrapper -->
+                        </div>
+                        <!-- /end of HPF Icon List-->
+                    </div>
+                    <!-- /end of HPF Des Box -->
+                </div>
+                <!-- /end of HFC Card -->
+
             </div>
             <!-- /end of HFC wrapper-->
 
