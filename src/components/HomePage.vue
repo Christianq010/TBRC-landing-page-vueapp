@@ -677,10 +677,49 @@
         <!-- /end of Home Feature Container -->
 
 
-        <!-- Stats Content Section -->
-        <!-- Table Stats -->
-        <div class="stats-1"> Stats big</div>
-        <!-- /end of Table Stats -->
+        <!-- Home COmmunity Board -->
+        <section class="home-community-board"> 
+
+            <!-- Main hero content  -->
+            <div class="main-hcb-content">
+
+                <!-- Main Hero Description -->
+                <div class="hcb-des-box">
+                    <!-- Hero Headline -->
+                    <div class="hcb-des-headline-box">
+                        <div class="hcb-des-headline">
+                            Learn and grow with award-winning support and a thriving community behind you.
+                        </div>
+                    </div>
+                    <!-- /end of Hero Headline -->
+
+                    <!-- Hero Des -->
+                    <div class="hcb-des-text-box">
+                        <div class="hcb-des-text">
+                            You don't have to go it alone. Master the inbound methodology and get the most out of your tools with HubSpot's legendary customer support team and a community of thousands of marketing and sales pros just like you.
+                        </div>
+                    </div>
+                    <!-- /end of Hero Des -->
+                </div>
+                <!-- /end of Main Hero Description -->
+
+                <!-- Main Hero Image Box -->
+                <div class="hcb-image-box">
+                    <div class="hcb-image">
+                        <!-- Image wrapper -->
+                        <div class="hcb-image-wrapper">
+                            <img />
+                        </div>
+                        <!-- /end of Image wrapper -->
+                    </div>
+                </div>
+                <!-- /end of Main Hero Image Box -->
+
+            </div>
+            <!-- /end of Main hero content  -->
+
+        </section>
+        <!-- /end of Home COmmunity Board -->
 
         <!-- Stats Customers -->
         <div class="stats-2"> Stats left</div>
