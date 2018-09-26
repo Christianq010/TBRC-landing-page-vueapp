@@ -259,9 +259,121 @@
         </section>
         <!-- /end of Home Growth Stack -->
 
-        <!-- Content Section 2 (center) -->
-        <div class="sec-2">Content Section 2</div>
-        <!-- /end of Content Section 2 (center) -->
+        <!-- Home Products Feature -->
+        <section class="home-products-feature">
+
+            <!-- HPF  wrapper -->
+            <div class="hpf-wrapper">
+
+                <!-- HPF Border Box -->
+                <div class="hpf-border-box">
+
+                    <!-- HPF Icon Box -->
+                    <div class="hpf-icn-box">
+                        <!-- HPF Icn -->
+                        <div class="hpf-icn-wrapper">
+                            <div class="hpf-icn-img">
+                                <img class="hpf-img" src="https://www.hubspot.com/hubfs/assets/hubspot.com/_style-guide/sword-sprocket/CRM-Illustration.svg?t=1537907763979" />
+                            </div>
+                        </div>
+                        <!-- /end of HPF Icn -->
+                        <!-- HPF CTA btn -->
+                        <div class="hpf-btn-wrapper">
+                            <a class="hpf-btn-link">
+                                <div class="hpf-btn">
+                                    Learn More
+                                </div>
+                            </a>
+                        </div>
+                        <!-- /end of HPF CTA btn -->
+                    </div>
+                    <!-- /end of HPF Icon Box -->
+
+                    <!-- HPF Des Box -->
+                    <div class="hpf-des-box">
+                        <!-- HPF Headline -->
+                        <div class="hpf-headline-wrapper">
+                            <div class="hpf-headline-text">
+                                Free HubSpot CRM
+                            </div>
+                        </div>
+                        <!-- /end of HPF Headline -->
+                        <!-- HPF des -->
+                        <div class="hpf-des-wrapper">
+                            <div class="hpf-des-text">
+                                Everything you need to organize, track, and build better relationships with leads and customers. Yes, it's 100% free. Forever.
+                            </div>
+                        </div>
+                        <!-- /end of HPF des -->
+                        <!-- HPF Sub Headline -->
+                        <div class="hpf-sub-wrapper">
+                            <div class="hpf-sub-box">
+                                <div class="hpf-sub-text">
+                                    POPULAR FEATURES
+                                </div>
+                            </div>
+                            <!-- Sub Line -->
+                            <div class="hpf-sub-line-box">
+                                <div class="hpf-sub-line"></div>
+                            </div>
+                            <!-- /end of Sub Line -->
+                        </div>
+                        <!-- /end of Hsub PF Headline -->
+                        <!-- HPF Icon List-->
+                        <div class="hpf-icn-list-box">
+
+                            <!-- HPF Ul wrapper -->
+                            <ul class="hpf-icn-list-ul">
+
+                                <li class="hpf-icn-list-li">
+                                    <div class="hpf-icn-li-wrapper">
+                                        <span class="hpf-icn-src">
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                                <path d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm-1.959 17l-4.5-4.319 1.395-1.435 3.08 2.937 7.021-7.183 1.422 1.409-8.418 8.591z"/>
+                                            </svg>
+                                        </span>
+                                        <span class="hpf-icn-text">Contact Insights</span>
+                                    </div>
+                                </li>
+                                <li class="hpf-icn-list-li">
+                                    <div class="hpf-icn-li-wrapper">
+                                        <span class="hpf-icn-src">
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                                <path d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm-1.959 17l-4.5-4.319 1.395-1.435 3.08 2.937 7.021-7.183 1.422 1.409-8.418 8.591z"/>
+                                            </svg>
+                                        </span>
+                                        <span class="hpf-icn-text">Deals</span>
+                                    </div>
+                                </li>
+                                <li class="hpf-icn-list-li">
+                                    <div class="hpf-icn-li-wrapper">
+                                        <span class="hpf-icn-src">
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                                <path d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm-1.959 17l-4.5-4.319 1.395-1.435 3.08 2.937 7.021-7.183 1.422 1.409-8.418 8.591z"/>
+                                            </svg>
+                                        </span>
+                                        <span class="hpf-icn-text">Tasks</span>
+                                    </div>
+                                </li>
+
+                            </ul>
+                            <!-- /end of HPF Ul wrapper -->
+
+                        </div>
+                        <!-- /end of HPF Icon List-->
+                        
+
+                    </div>
+                    <!-- /end of HPF Des Box -->
+
+                </div>
+                <!-- /end of HPF Border Box -->
+
+            </div>
+            <!-- /end of HPF  wrapper -->
+
+        </section>
+        <!-- /end of Home Products Feature -->
 
         <!-- Content Section 3 (right) -->
         <div class="sec-3">Content Section 3</div>
