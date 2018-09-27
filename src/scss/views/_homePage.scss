@@ -432,6 +432,10 @@
   .hcb-image-box {}
   .hcb-image {}
   .hcb-image-wrapper {}
+  .hcb-btn-box {
+    display: flex;
+    justify-content: center;
+  }
   .hcb-btn-wrapper {
     color: white;
     font-family: $font-bold;
@@ -441,6 +445,8 @@
     border-radius: 0.1875em;
     transition: 0.15s color ease-out, 0.15s background-color ease-out,
       0.15s border-color ease-out;
+    margin: 2em 0 0.5em 0;
+    width: 150px;
   }
   .hcb-btn-link {
     font-size: 0.875em;
