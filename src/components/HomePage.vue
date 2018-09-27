@@ -700,6 +700,18 @@
                         </div>
                     </div>
                     <!-- /end of Hero Des -->
+
+                    <!-- HPF CTA btn -->
+                    <div class="hcb-btn-box">
+                        <div class="hcb-btn-wrapper">
+                            <a class="hcb-btn-link">
+                                <div class="hcb-btn">
+                                    Learn More
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <!-- /end of HPF CTA btn -->
                 </div>
                 <!-- /end of Main Hero Description -->
 
