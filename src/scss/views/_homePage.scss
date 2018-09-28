@@ -504,6 +504,8 @@
     grid-column: 1 / -1;
     background-color: #f5f8fa;
     border-bottom: 1px solid #cbd6e2;
+    position: sticky;
+    top: -1px;
   }
   .number-tab-wrapper {
   }
