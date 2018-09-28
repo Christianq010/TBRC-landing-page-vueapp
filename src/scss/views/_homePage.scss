@@ -464,6 +464,7 @@
   }
   /* ------------------------------ */
   /* Stats story right */
+  /* ------------------------------ */
   .stats-3 {
     grid-row: 9 / 10;
     grid-column: 1 / -1;
@@ -472,6 +473,7 @@
 
   /* ------------------------------ */
   /* Footer */
+  /* ------------------------------ */
   .footer {
     grid-row: 10 / 11;
     grid-column: 1 / -1;
@@ -749,6 +751,10 @@
     transition: 0.3s ease-in-out;
     margin: 0 1em .5em 1em;
   }
+  .home-products-feature:hover {
+    margin: 0 0.8em .5em;
+    box-shadow: 0 0 35px #dfe5eb;
+  }
   .hpf-wrapper {
     padding: 2em 6em;
   }
@@ -862,7 +868,12 @@
   .hfc-card {
     flex: 1;
     background-color: #fff;
+    transition: 0.3s ease-in-out;
     margin: 1em;
+  }
+  .hfc-card:hover {
+    margin: 0.8em;
+    box-shadow: 0 0 35px #dfe5eb;
   }
   .hfc-icn-box {
     display: flex;
@@ -1006,6 +1017,7 @@
   }
   /* ------------------------------- */
   /* Stats story left */
+  /* ------------------------------- */
   .stats-2 {
     grid-row: 8 / 9;
     grid-column: 3 / 13;
@@ -1013,6 +1025,7 @@
   }
   /* ------------------------------- */
   /* Stats story right */
+  /* ------------------------------- */
   .stats-3 {
     grid-row: 10 / 11;
     grid-column: 3 / 13;
