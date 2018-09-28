@@ -61,6 +61,7 @@ _For the live staging build, please refer to the [link][link]._
 
 - Vue dropdown - https://vuejsexamples.com/a-prettier-way-to-display-select-boxes/
 - Vue Burger Menu - https://github.com/mbj36/vue-burger-menu
+- Meta tag manager for Vue - https://vuejsexamples.com/a-simple-ts-friendly-meta-tag-manager-for-vue-js/
 
 ## Meta
 
