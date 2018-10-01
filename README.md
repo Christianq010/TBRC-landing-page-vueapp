@@ -1,12 +1,12 @@
-# TBRC landing page
+# HubSpot landing page (09/2018)
 
-> This is the landing page for TBRC.
+> This is a clone of the HubSpot landing page.
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
-This application is build on Vue JS and hosted on example.com.
+This application is build on Vue JS and hosted on surge.sh
 
 <!-- ![](header.png) -->
 
