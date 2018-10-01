@@ -65,8 +65,8 @@ _For the live staging build, please refer to the [link][link]._
 
 ## Meta
 
-Christiaan Quyn – [@YourTwitter](https://twitter.com/ChristianQ010) – christianq010@gmail.com
-Contact - /contact
+Christiaan Quyn – [@ChristianQ010](https://twitter.com/ChristianQ010)
+Contact - christianq010@gmail.com
 
 Distributed under the XYZ license. See `LICENSE` for more information.
 
